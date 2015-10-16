@@ -1,0 +1,24 @@
+{
+  "name": "Umbraco_Belle",
+  "version": "7.1.2",
+  "description": "Umbraco CMS 7 front end UI",
+  "bugs": {
+    "url": "https://github.com/yhptony/Umb.Web.UI.Client/issues"
+  },
+  "homepage": "https://github.com/yhptony/Umb.Web.UI.Client",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhptony/Umb.Web.UI.Client.git"
+  },
+  "author": "Tonny Yan",
+  "license": "ISC",
+  "engines": {
+    "node": ">= 0.8.4"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bower": ">=1.4.1"
+  }
+
+}
